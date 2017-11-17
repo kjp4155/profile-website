@@ -1,0 +1,10 @@
+@import url("./font_settings.css");
+
+/*
+* {
+	font-family: helvetica-neue;
+}
+*/
+* {
+	font-family: liberation-mono;
+}
