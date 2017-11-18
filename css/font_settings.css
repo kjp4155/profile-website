@@ -1,11 +1,25 @@
 
 @font-face{
 	font-family: helvetica-neue;
-	src: url('./../fonts/helvetica-neue/helveticaneue.ttf');
+	src: url('./../fonts/helvetica-neue/helveticaneue_thin.ttf');
+}
+
+@font-face{
+	font-family: helvetica-neue-bold;
+	src: url('./../fonts/helvetica-neue/helveticaneue_bold.ttf');
+}
+
+@font-face{
+	font-family: helvetica-neue-medium;
+	src: url('./../fonts/helvetica-neue/helveticaneue_medium.ttf');
 }
 
 
 @font-face{
 	font-family: liberation-mono;
 	src: url('./../fonts/liberation-mono/liberationmono.ttf');
+}
+@font-face{
+	font-family: liberation-mono-bold;
+	src: url('./../fonts/liberation-mono/liberationmono_bold.ttf');
 }
